@@ -1,0 +1,148 @@
+
+
+#logo{
+    padding-left:50px;
+    
+}
+#nav-items{
+    color:grey;
+    text-decoration: none;
+    font-size: 17px;
+}
+#navbar{
+    padding-left: 190px;
+}
+#toggle{
+   
+    background:white ;
+}
+#hd-btn{
+    color: orangered;
+    font-weight: bold;
+    font-size: 20px;
+    background: black;
+    border-color: orangered;
+    margin-left: 10px;
+    
+}
+
+#paragraph{
+    padding-top: 170px;
+    padding-left: 52px;
+    background:black;
+    font-family: Gordita;
+    font-weight: 500;
+    
+    
+}
+
+#para1{
+    font-size: 40px;
+    color:white ;
+
+}
+#para2{
+    color: grey;
+}
+
+
+#bt{
+    background-image: linear-gradient(#A14D9B,orangered);
+    font-family: Gordita;
+   
+    
+}
+
+
+
+#center-img{
+    
+
+    max-width: 90%;
+    padding-left: 300px;
+    background-image: url(Assets/pattern\ -\ color.svg);
+    background-position: 250px;
+    /* filter: blur(8px); */
+    background-size: 340px;  
+    background-repeat:no-repeat
+
+    
+    
+}   
+
+
+
+#card-section{
+    padding-left:5px;
+    padding-top: 120px;
+     
+}
+
+
+#gogle{
+  
+
+    background-image: linear-gradient(#A14D9B,orangered);
+}
+.card{
+    background-image: linear-gradient(#A14D9B,orangered);
+    
+}
+ #foot{ 
+    background-image: url(Assets/Footer\ -\ image.png); 
+    border: 10px solid transparent;
+    margin-top: 110px;
+    max-width: 90%;
+    max-height:500px;
+    padding-top: 60px;
+    margin-left: 105px;
+    height: 50%;
+    background-size: 95%;
+    background-repeat: no-repeat;
+    
+}
+ 
+#foot1{
+    margin-left: 50px;
+    color:grey ;
+    font-weight: bold;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 9px;
+    border-radius: 5px;
+    position: relative;
+
+
+
+}
+#foot2{
+   
+    background-image: linear-gradient(#A14D9B,orangered);
+    color: white;
+    border-radius: 5px;
+    
+
+}
+
+#logo2{
+   
+   max-width: 300px;
+   padding-left:100px;
+
+
+
+}
+#footer-nav{
+  padding-left: 0px;  
+  margin-top: 100px
+  
+}
+.vl {
+    border-left: 2px solid gray;
+    margin-left: 10px;
+    padding: 10px;
+  }
+  #navbar{
+
+    margin-top: 30px;
+}
